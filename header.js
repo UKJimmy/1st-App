@@ -6,7 +6,7 @@ const Header = () => {
 
   return (
     <View style={viewStyle}>
-      <Text style={textStyle}>Fighters</Text>;
+      <Text style={textStyle}>Gay Fighters</Text>;
     </View>
   );
 };
